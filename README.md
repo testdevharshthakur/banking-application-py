@@ -1,8 +1,8 @@
-# Banking System 
+# Banking System 🏦
 
 This is a simple terminal-based banking application designed to help my brother learn how to contribute to a project using Git and GitHub. The project is currently a skeleton, with core features waiting to be implemented.
 
-## Project Structure
+## Project Structure 📁
 
 - `src/`: Contains the main application logic.
   - `main.py`: The entry point of the application.
@@ -10,10 +10,10 @@ This is a simple terminal-based banking application designed to help my brother 
   - `transactions.py`: (Planned) Module for handling deposit, withdrawal, transfers, and transaction history.
 - `tests/`: Contains unit tests for the application.
   - `test_accounts.py`: Placeholder for account-related tests.
-- `data/`: Intended for storing persistent data (e.g., `accounts.json`).
+  - `data/`: Intended for storing persistent data (e.g., `accounts.json`).
 - `.venv/`: Virtual environment managed by `uv`.
 
-## Getting Started
+## Getting Started 🚀
 
 To get this project running on your local machine:
 
@@ -49,7 +49,7 @@ To get this project running on your local machine:
     ```
     The application is currently very basic, prompting for features that are not yet implemented. Your task will be to implement one!
 
-## Contribution Guide
+## Contribution Guide 🤝
 
 Please refer to the open [Issues](https://github.com/testdevharshthakur/banking-system-py/issues) on GitHub for tasks to work on. When contributing:
 
@@ -70,4 +70,4 @@ Please refer to the open [Issues](https://github.com/testdevharshthakur/banking-
 9.  Ensure your code is clean and readable.
 
 ---
-*Happy Hacking!*
+*Happy Hacking!* 🚀
