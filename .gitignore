@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/accounts.json # Ignore specific data file for now, to be manually added later if needed
+
+.ruff_cache
